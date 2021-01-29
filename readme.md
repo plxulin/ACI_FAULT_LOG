@@ -1,0 +1,2 @@
+- run python test_1.py to grep all fault info from `"https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/all/syslog/guide/b_ACI_System_Messages_Guide/m-aci-f1x-messages.html"` and generate excelsheet
+- Then run python test_2.py to get the final result <result.xlsx>
